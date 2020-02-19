@@ -50,3 +50,6 @@ Temporary Items
 @Resources/images/coverWeb.png
 Temperature/GPU/GPUName.txt
 
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/SysDash/v16/.suo
